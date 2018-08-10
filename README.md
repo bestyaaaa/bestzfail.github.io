@@ -1,8 +1,11 @@
-# About Me
+# Tanawit Kongpetcharatip (bestzfail)
 
-_**Tanawit Kongpetcharatip**_
+*DevOps Engineer @ I-SECURE co.,ltd*
 
-*DevOps Engineer @ i-secure co.,ltd*
+## Experience
 
+**DevOps Engineer**
 
+> I-SECURE co.,ltd - *Managed Security Services Provider in Thailand*
 
+> Jun 2016 - Present
