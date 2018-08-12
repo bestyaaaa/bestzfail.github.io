@@ -1,0 +1,156 @@
+*{
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	font-family: Hack, monospace; 
+}
+body{
+	background: #FFFFFF;
+}
+#left-column{
+	padding-top: 30px;
+	text-align: center;
+	padding-bottom: 40px;
+	background: #fae596;
+}
+#right-column{
+	background: #173E43;
+	padding: 40px 50px 40px 50px;
+}
+.img-profile{
+	border-radius: 50%;
+	width: 70%;
+}
+#alias{
+	font-size: 2em;
+	color: #173e43;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+#fullname{
+	padding-top: 20px;
+	font-size: 1.2em;
+	color: #173e43;
+	font-weight: bold;
+	padding-bottom: 30px;
+}
+#live-in,
+#other,
+#email,
+#other-n1{
+	font-size: 0.8em;
+	color: #27494E;
+}
+#header{
+	font-size: 2em;
+	color: #fae596;
+	font-weight: 500;
+}
+ul.timeline {
+    list-style-type: none;
+    position: relative;
+}
+ul.timeline:before {
+    content: ' ';
+    background: #FBFCFC;
+    display: inline-block;
+    position: absolute;
+    left: 29px;
+    width: 2px;
+    height: 100%;
+    z-index: 400;
+}
+ul.timeline > li {
+    margin: 20px 0;
+    padding-left: 20px;
+}
+ul.timeline > li:before {
+    content: ' ';
+    background: #FFFFFF;
+    display: inline-block;
+    position: absolute;
+    border-radius: 50%;
+    border: 3px solid #3fb0ac;
+    left: 20px;
+    width: 20px;
+    height: 20px;
+    z-index: 400;
+}
+#li-header{
+	font-size: 1.1em;
+	color: #FFF6D9;
+	font-weight: 500;
+}
+.aws {
+	font-size: 1.1em;
+	color: #FFF6D9;
+	font-weight: 500;
+}
+#time{
+	font-size: 0.7em;
+	color: #A2AFBC;
+}
+#where{
+	font-size: 0.8em;
+	color: #F2F3F4;
+}
+#cert-logo{
+	height: 150px;
+	margin-bottom: 20px;
+}
+#skill-header{
+	font-size: 1.6em;
+	font-weight: 500;
+	color: #F2F3F4;
+	text-align: center;
+	margin: 50px 0 0 0 ;
+}
+#code-skill{
+	margin-top: 10px;
+}
+.lang-row,
+.tools-row{
+	margin: 30px 0 0 0 ;
+}
+#lang{
+	font-size: 1em;
+	text-align: center;
+	color: #FFF6D9;
+	margin-top: 5px;
+}
+#lang .fab,
+#lang .far,
+#lang .fas{
+	font-size: 3.5em;
+}
+#lang h6{
+	font-weight: 200;
+	padding-top: 20px;
+}
+#lang p{
+	font-size: 0.7em;
+	color: #F2F3F4
+}
+.badge-row{
+	margin: 30px 30px 0 30px;
+	text-align: center;
+}
+.badge{
+	font-size: 0.8em;
+	margin-right: 5px;
+	margin-top: 10px;
+	font-weight: 100;
+}
+#software-header{
+	font-size: 1em;
+	font-weight: 200;
+	color: #FFF6D9;
+	text-align: center;
+	margin: 30px 0 0 0 ;
+}
+#tools img{
+	border-radius: 10px;
+	background: #ffffff;
+	padding: 10px; 
+	height: 80px;
+}
