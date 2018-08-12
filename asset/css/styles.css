@@ -95,7 +95,7 @@ ul.timeline > li:before {
 	color: #F2F3F4;
 }
 #cert-logo{
-	height: 150px;
+	max-height: 110px;
 	margin-bottom: 20px;
 }
 #skill-header{
@@ -153,4 +153,5 @@ ul.timeline > li:before {
 	background: #ffffff;
 	padding: 10px; 
 	height: 80px;
+	margin: 10px 0px 0px 0px;
 }
