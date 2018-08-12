@@ -99,12 +99,24 @@ ul.timeline > li:before {
 	max-height: 110px;
 	margin-bottom: 20px;
 }
+.skill-section{
+	background: #0A2B30;
+	padding-bottom: 30px;
+	margin: 0px -50px 0 -50px ;
+}
 #skill-header{
 	font-size: 1.6em;
 	font-weight: 500;
 	color: #F2F3F4;
 	text-align: center;
 	margin: 50px 0 0 0 ;
+}
+#skill-section-header{
+	font-size: 2em;
+	color: #fae596;
+	font-weight: 500;
+	padding-top: 30px;
+	text-align: center;
 }
 #code-skill{
 	margin-top: 10px;
