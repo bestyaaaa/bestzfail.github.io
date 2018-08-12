@@ -15,7 +15,7 @@ body{
 }
 #right-column{
 	background: #173E43;
-	padding: 40px 50px 40px 50px;
+	padding: 40px 50px 0px 50px;
 }
 .img-profile{
 	border-radius: 50%;
@@ -112,7 +112,7 @@ ul.timeline > li:before {
 	margin: 50px 0 0 0 ;
 }
 #skill-section-header{
-	font-size: 2em;
+	font-size: 2.7em;
 	color: #fae596;
 	font-weight: 500;
 	padding-top: 30px;
