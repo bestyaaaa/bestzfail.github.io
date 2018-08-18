@@ -99,6 +99,10 @@ ul.timeline > li:before {
 	max-height: 110px;
 	margin-bottom: 20px;
 }
+#exp-logo{
+	max-height: 60px;
+	margin-bottom: 20px;
+}
 .skill-section{
 	background: #0A2B30;
 	padding-bottom: 30px;
